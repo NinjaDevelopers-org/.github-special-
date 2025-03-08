@@ -39,7 +39,7 @@ To initialize a new React application using this template, you can use the follo
 ```bash
 npm init react-app my-app
 # or
-yarn create react-app my-app
+yarn create react-app my-app(https://github.com/NinjaDevelopers-org/.github-special-/blob/main/cvss.template)
 Furthermore this template for a CVSS (Common Vulnerability Scoring System) file is to map the vulnerability based on the details provided:
 Identify the Vulnerability: Clearly document the vulnerability, including steps to reproduce, impact, and any supporting evidence (e.g., screenshots, logs).
 Checking GitHubs Official Rules Regulations and Security Guidlines for Open Source Development: Reviewing GitHub's security to report a command injection vulnerability in the, user/.github-repository could be:"Critical Command Injection Vulnerability in username/organazation/.github-Repository" the GitHubs security Protocol and Program's Rules and Guidelines, to ensure that your report complies with their requirements. This includes understanding the scope of the program, eligible vulnerabilities, and reporting procedures.
